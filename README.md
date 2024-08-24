@@ -64,5 +64,5 @@ While logged in your Instagram account:
 
 # 🙏🏻 Credits
 Thanks to: 
-[MRS.PARADISE](t.me/irare_girl)
-[MR.PARADISE](t.me/irare_boy)
+(t.me/irare_girl)
+(t.me/irare_boy)
