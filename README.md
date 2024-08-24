@@ -64,5 +64,5 @@ While logged in your Instagram account:
 
 # 🙏🏻 Credits
 Thanks to: 
-developer t.me/irare_girl
-owner t.me/irare_boy
+developer https://t.me/irare_girl)
+owner (https://t.me/irare_boy)
